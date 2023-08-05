@@ -20,7 +20,7 @@ The Routine Bot is a Telegram bot designed to help students retrieve their class
 
 5. **Class Information**:
    - The bot fetches class data from the database and provides users with information about their classes, including subject, time, campus, room, and direction.
-   - Users are informed about their nearest upcoming class, including time remaining if it's within 15 minutes.
+   - Users are informed about their nearest upcoming class, including time remaining if it's within 15 minutes (Still working in this feature).
 
 6. **Terms & Conditions and Privacy Policy**:
    - The bot includes Terms & Conditions and Privacy Policy information that users can access through inline keyboard options.
